@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E8F5E9"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#43A047"/>
+      <stop offset="1" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#C8E6C9" stroke-width="2"/>
+  <!-- ícone: círculo com linhas de vento -->
+  <g transform="translate(120 160)">
+    <circle r="88" fill="url(#leaf)"/>
+    <g fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round">
+      <path d="M-52 -26 H22 a20 20 0 1 0 -20 -20"/>
+      <path d="M-52 4 H42 a20 20 0 1 1 -20 20"/>
+      <path d="M-52 34 H2"/>
+    </g>
+  </g>
+  <text x="250" y="150" font-family="Roboto, Arial, sans-serif" font-size="78" font-weight="800" fill="#1B5E20">Respira SP</text>
+  <text x="252" y="205" font-family="Roboto, Arial, sans-serif" font-size="30" fill="#4A5A4E">Antecipe dias de risco por poluição e calor nas zonas de São Paulo</text>
+  <text x="252" y="252" font-family="Roboto, Arial, sans-serif" font-size="22" fill="#2E7D32">Territory Predictive Insights · FIAP Global Solution 2026.2</text>
+</svg>
