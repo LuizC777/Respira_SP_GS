@@ -28,9 +28,9 @@
 
 | Nome completo | RM |
 |---|---|
-| _Nome do integrante 1_ | _RM000000_ |
-| _Nome do integrante 2_ | _RM000000_ |
-| _Nome do integrante 3_ | _RM000000_ |
+| _Luiz Claro_ | _RM563014_ |
+| _Gabriel Nacarelli_ | _RM565298_ |
+| _André Gouveia_ | _RM564219_ |
 
 ## 3. Demonstração visual
 
@@ -38,10 +38,10 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/01_consentimento.png" width="230"/><br>**Consentimento:** onboarding e aceite (LGPD) | <img src="assets/screenshots/02_visao_geral.png" width="230"/><br>**Visão geral:** benefício social, alertas e zonas | <img src="assets/screenshots/03_dashboard_ar.png" width="230"/><br>**Dashboard de ar:** AQI, poluentes e PM2.5 (histórico + previsão) |
-| <img src="assets/screenshots/04_dashboard_calor.png" width="230"/><br>**Dashboard de calor:** temperatura, sensação e horas críticas | <img src="assets/screenshots/05_dashboard_impacto.png" width="230"/><br>**Dashboard de impacto:** exposição, dias críticos e ocorrências | <img src="assets/screenshots/06_alertas.png" width="230"/><br>**Alertas:** lista com filtros de status e severidade |
-| <img src="assets/screenshots/07_detalhe_alerta.png" width="230"/><br>**Detalhe do alerta:** evidência, confiança, limitações e decisão | <img src="assets/screenshots/08_ocorrencia.png" width="230"/><br>**Ocorrência:** formulário anônimo com validação | <img src="assets/screenshots/09_ajustes.png" width="230"/><br>**Ajustes:** limiares, tema, fonte, notificações e privacidade |
-| <img src="assets/screenshots/10_sobre_dados.png" width="230"/><br>**Sobre os dados:** fontes, métricas, vieses e limitações | <img src="assets/screenshots/11_modo_escuro.png" width="230"/><br>**Modo escuro** | <img src="assets/screenshots/12_offline.png" width="230"/><br>**Offline:** dados do cache identificados |
+| <img src="assets/screenshots/consentimento.png" width="230"/><br>**Consentimento:** onboarding e aceite (LGPD) | <img src="assets/screenshots/visaogeral.png" width="230"/><br>**Visão geral:** benefício social, alertas e zonas | <img src="assets/screenshots/dash-ar.png" width="230"/><br>**Dashboard de ar:** AQI, poluentes e PM2.5 (histórico + previsão) |
+| <img src="assets/screenshots/dash-calor.png" width="230"/><br>**Dashboard de calor:** temperatura, sensação e horas críticas | <img src="assets/screenshots/dash-impacto.png" width="230"/><br>**Dashboard de impacto:** exposição, dias críticos e ocorrências | <img src="assets/screenshots/alerta.png" width="230"/><br>**Alertas:** lista com filtros de status e severidade |
+| <img src="assets/screenshots/detalhe-alerta.png" width="230"/><br>**Detalhe do alerta:** evidência, confiança, limitações e decisão | <img src="assets/screenshots/ocorrencia.png" width="230"/><br>**Ocorrência:** formulário anônimo com validação | <img src="assets/screenshots/ajustes.png" width="230"/><br>**Ajustes:** limiares, tema, fonte, notificações e privacidade |
+| <img src="assets/screenshots/sobre-dados.png" width="230"/><br>**Sobre os dados:** fontes, métricas, vieses e limitações | <img src="assets/screenshots/tema.png" width="230"/><br>**Modo escuro/claro** | <img src="assets/screenshots/offline.png" width="230"/><br>**Offline:** dados do cache identificados |
 
 ## 4. Funcionalidades
 
