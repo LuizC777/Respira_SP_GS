@@ -197,7 +197,7 @@ flutter test
 
 ## 9. Vídeo
 
-▶️ **[Assista à demonstração]([(https://youtu.be/_X2_yBTcEl4)])**
+▶️ **[Assista à demonstração](https://youtu.be/_X2_yBTcEl4)**
 
 ## 10. Licença
 
