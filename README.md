@@ -174,7 +174,7 @@ lib/
 
 ```bash
 # 1. Clonar
-git clone https://github.com/<usuario>/respira_sp.git
+git clone https://github.com/LuizC777/Respira_SP_GS.git
 cd respira_sp
 
 # 2. Gerar as pastas de plataforma (não sobrescreve lib/ nem pubspec.yaml)
@@ -197,7 +197,7 @@ flutter test
 
 ## 9. Vídeo
 
-▶️ **[Assista à demonstração]([https://youtu.be/SEU_LINK_AQUI](https://youtu.be/_X2_yBTcEl4))**
+▶️ **[Assista à demonstração]((https://youtu.be/_X2_yBTcEl4))**
 
 ## 10. Licença
 
