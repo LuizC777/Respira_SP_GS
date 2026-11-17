@@ -67,7 +67,7 @@
 - [x] **Diferencial:** modo escuro
 - [x] **Diferencial:** notificações locais para alertas altos e críticos (tocar abre o detalhe)
 - [x] **Diferencial:** testes automatizados (motor de alertas, validações, API e widgets)
-- [ ] **Diferencial:** APK de release (será publicado em *Releases*)
+- [ ] **Diferencial:** APK de release 
 
 ## 5. Dados e alertas
 
@@ -197,7 +197,7 @@ flutter test
 
 ## 9. Vídeo
 
-▶️ **[Assista à demonstração (até 3 min)](https://youtu.be/SEU_LINK_AQUI)**
+▶️ **[Assista à demonstração]([https://youtu.be/SEU_LINK_AQUI](https://youtu.be/_X2_yBTcEl4))**
 
 ## 10. Licença
 
